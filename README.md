@@ -17,24 +17,22 @@ A modern, lightweight Pomodoro Timer & Task Manager for Windows.
 - **Local Storage** - All data stays on your machine, no account required
 - **Single Instance** - Prevents multiple windows from opening
 
-## Screenshots
-
-*Coming soon*
-
 ## Installation
 
 ### Download
 
-Download the latest release from the [Releases](https://github.com/theMSOft/focusflow/releases) page.
+Download the latest release from the [**Releases**](https://github.com/themsoft/focusflow/releases/latest) page:
 
-- **Installer**: `FocusFlow-Setup-1.0.0.exe` - Standard Windows installer
-- **Portable**: `FocusFlow-1.0.0-portable.exe` - No installation needed
+| File | Description |
+|------|-------------|
+| `FocusFlow Setup 1.0.0.exe` | Windows Installer (recommended) |
+| `FocusFlow 1.0.0.exe` | Portable version (no install needed) |
 
 ### Build from Source
 
 ```bash
 # Clone the repository
-git clone https://github.com/theMSOft/focusflow.git
+git clone https://github.com/themsoft/focusflow.git
 cd focusflow
 
 # Install dependencies
