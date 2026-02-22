@@ -6,6 +6,10 @@ A modern, lightweight Pomodoro Timer & Task Manager for Windows.
 ![Platform](https://img.shields.io/badge/platform-Windows-0078d4.svg)
 ![Electron](https://img.shields.io/badge/electron-33-47848f.svg)
 
+## Screenshot
+
+![FocusFlow Dark Theme](screenshots/app-dark.png)
+
 ## Features
 
 - **Pomodoro Timer** - Configurable work/break intervals with auto-cycling
